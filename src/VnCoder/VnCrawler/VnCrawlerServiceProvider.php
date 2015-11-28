@@ -26,7 +26,7 @@ class VnCrawlerServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('cuongpd/lara-dom-crawler');
+		//
 	}
 
 	/**
