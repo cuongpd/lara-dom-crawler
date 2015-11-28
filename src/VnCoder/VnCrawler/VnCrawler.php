@@ -10,8 +10,6 @@ namespace VnCoder\VnCrawler;
  * @reference   http://simplehtmldom.sourceforge.net/manual.htm
  */
 
-require_once('simple_html_dom.php');
-
 class VnCrawler {
 
 
