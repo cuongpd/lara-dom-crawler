@@ -19,7 +19,7 @@ class VnCrawler {
      * Read Website Content
      */
 
-    static function feed($url = '' , $fields = [] , $option = []){
+    static function dom($url = '' , $fields = [] , $option = []){
         $html = self::get($url , $fields , $option);
         if($html){
             return self::str_get_html($html);
