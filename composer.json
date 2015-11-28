@@ -4,7 +4,6 @@
     "keywords": ["laravel", "php,laravel,crawler,html dom"],
     "homepage": "http://s2vnn.com",
     "license": "MIT",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Cuong Pham",
